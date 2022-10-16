@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ad7eb70-a023-4366-83e2-c51ba0b5e362" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeeU2T9Lab.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CircleRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RightTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RightTriangleRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LuckyNumberRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LuckyNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CircleRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CircleRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,15 +34,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.RightTriangleRunner">
+}</component>
+  <component name="RunManager" selected="Application.LuckyNumberRunner">
     <configuration name="CircleRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CircleRunner" />
+      <module name="LeeU2T9Lab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LuckyNumberRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LuckyNumberRunner" />
       <module name="LeeU2T9Lab" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -63,8 +64,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RightTriangleRunner" />
+        <item itemvalue="Application.LuckyNumberRunner" />
         <item itemvalue="Application.CircleRunner" />
+        <item itemvalue="Application.RightTriangleRunner" />
       </list>
     </recent_temporary>
   </component>
